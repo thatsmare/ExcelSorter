@@ -21,7 +21,8 @@ excelsort::excelsort(){
 }
 
  void excelsort::readfiles(){
-
+std::ifstream file1(datafile1);
+std::fstream file2(datafile2);
 }
 
 
